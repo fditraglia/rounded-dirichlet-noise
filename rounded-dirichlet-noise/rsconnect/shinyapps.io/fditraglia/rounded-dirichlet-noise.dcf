@@ -5,9 +5,9 @@ account: fditraglia
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 4511638
-bundleId: 4941542
+bundleId: 4941663
 url: https://fditraglia.shinyapps.io/rounded-dirichlet-noise/
-when: 1629384240.56271
-lastSyncTime: 1629384240.56274
+when: 1629386308.18057
+lastSyncTime: 1629386308.1806
 asMultiple: FALSE
 asStatic: FALSE
